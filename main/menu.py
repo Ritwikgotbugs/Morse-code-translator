@@ -4,11 +4,11 @@ import customtkinter as ctk
 
 #Call functions
 def text_2_morse():
-    call(["python", "C:/Users/Ritwik/Desktop/All/Projects/Morse-code-translator/main/text_morse.py"])
+    call(["python", "main/text_morse.py"])
 def morse_2_text():
-    call(["python","C:/Users/Ritwik/Desktop/All/Projects/Morse-code-translator/main/morse_text.py"])
+    call(["python","main/morse_text.py"])
 def speech_2_morse():
-    call(["python","C:/Users/Ritwik/Desktop/All/Projects/Morse-code-translator/main/speech_morse.py"])
+    call(["python","main/speech_morse.py"])
 
 #Main TK window
 menu= ctk.CTk()
