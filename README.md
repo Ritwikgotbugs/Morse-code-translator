@@ -7,7 +7,7 @@ This translator is a menu driven program which uses multiple python libraries co
 </p>
 
 ## Libraries Used
-Note: Installation of the below mentioned libraries is a must inorder for the program to execute without errors!
+Note: Installation of the below mentioned libraries is a must in order for the program to execute without errors!
 - [Speech Recognition](https://pypi.org/project/SpeechRecognition/)
 - [Custom Tkinter](https://pypi.org/project/customtkinter/0.3/)
 - [Google Text to Speech](https://pypi.org/project/gTTS/)
