@@ -1,5 +1,5 @@
 <h1 align="center">
-Morse Code Translator
+Morse Translator
 </h1>
 
 <p>
