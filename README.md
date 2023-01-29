@@ -10,7 +10,7 @@ This translator is a menu driven program which uses multiple python libraries co
 Note: Installation of the below mentioned libraries is a must in order for the program to execute without errors!
 - [Speech Recognition](https://pypi.org/project/SpeechRecognition/)
 - [Custom Tkinter](https://pypi.org/project/customtkinter/0.3/)
-- [Google Text to Speech](https://pypi.org/project/gTTS/)
+- [Google Text to Speech (gTTs)](https://pypi.org/project/gTTS/)
 - [os-sys](https://pypi.org/project/os-sys/)
 - [Text wrap](https://pypi.org/project/textwrap3/)
 
