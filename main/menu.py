@@ -15,6 +15,7 @@ menu= ctk.CTk()
 menu.title("Morse Translator")
 menu.geometry("400x350")
 menu.config(bg='#0e2038')
+menu.resizable(False,False)
 
 #Message Box
 def on_closing(menu):
